@@ -2,7 +2,7 @@
 - 👀 I’m interested in mastering HTML, CSS, PHP and C##
 - 🌱 I’m currently learning the above
 - 💞️ I’m looking for collaborators
-- 📫 How to reach me: joel.a.perez@gmail.com
+- 📫 How to reach me: www.knowwhatlurks.com
 
 <!---
 AxRover/AxRover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
